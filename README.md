@@ -7,8 +7,8 @@ Currently focusing on **SQL 50**, and expanding to other problem sets such as Ar
 
 ## 📌 Progress
 
-- **SQL 50**: SQL 50: [█████████████████████████-------] 47/50
-- **Future Plans**: LeetCode Top 150, Data Structures & Algorithms, System Design
+- **SQL 50**: [█████████████████████████---] 47/50 completed  
+- **Future Plans**: LeetCode Top 150, Data Structures & Algorithms, System Design  
 
 ---
 
